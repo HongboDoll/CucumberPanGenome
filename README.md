@@ -12,4 +12,5 @@ Li, H., Wang, S., Chai, S. et al. Graph-based pan-genome reveals structural and 
 
 # Contact
 Hongbo Li (lihongbo_solab@163.com)
+
 Zhonghua Zhang (zhangzhonghua@qau.edu.cn)
